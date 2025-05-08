@@ -117,7 +117,7 @@ export default {
         spacings:
          /* wwFront:start */
         // eslint-disable-next-line no-unreachable, no-undef
-        {},
+        {"8e8fc3ae-fe16-43bc-9774-ff956cd476e2":"4px"},
         /* wwFront:end */
         typographies:
          /* wwFront:start */
